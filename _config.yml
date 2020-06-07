@@ -28,7 +28,7 @@ twitter_username: adjoakittoe
 github_username:  akittoe
 
 # Build settings
-theme: jekyll-chalk
+theme: minima
 plugins:
   - jekyll-feed
 

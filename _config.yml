@@ -30,6 +30,7 @@ github_username:  akittoe
 # Build settings
 # Removed minima theme as it is now a regular theme
 # theme: minima
+theme: jekyll-chalk
 plugins:
   - jekyll-feed
 
